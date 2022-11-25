@@ -28,7 +28,7 @@ To launch as a consumer chain, download and save shared genesis file to `~/.shwi
 To instead launch as a standalone, single node chain, run:
 
 ```
-shwiftyd add-consumer-section
+shwifty add-consumer-section
 ```
 
 ## Launch node
