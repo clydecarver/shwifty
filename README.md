@@ -16,7 +16,7 @@ make install
 Come up with a moniker for your node, then run:
 
 ```
-shwiftyd init $MONIKER
+shwifty init $MONIKER
 ```
  
  
@@ -34,5 +34,5 @@ shwiftyd add-consumer-section
 ## Launch node
 
 ```
-shwiftyd start
+shwifty start
 ```
